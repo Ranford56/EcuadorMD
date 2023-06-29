@@ -1,0 +1,3 @@
+/partidos/ppe.md
+/personajes/personaje.md
+/README.md
