@@ -1,9 +1,7 @@
 {
-  "routes": [
-    {"ppe": "./partidos/ppe"}
+     "ppe": "./partidos/ppe"
 ,
-    {"personaje": "./personajes/personaje"}
+     "personaje": "./personajes/personaje"
 ,
-    {"README": "./README"}
-  ]
+     "README": "./README"
 }
