@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {"ppe": "./partidos/ppe"}
+,
+    {"personaje": "./personajes/personaje"}
+,
+    {"README": "./README"}
+  ]
+}
