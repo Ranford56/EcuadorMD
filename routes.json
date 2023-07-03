@@ -1,7 +1,7 @@
 {
-     "ppe": "./partidos/ppe"
+     "ppe": "/partidos/ppe.md"
 ,
-     "personaje": "./personajes/personaje"
+     "personaje": "/personajes/personaje.md"
 ,
-     "README": "./README"
+     "README": "/README.md"
 }
